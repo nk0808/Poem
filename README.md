@@ -15,13 +15,4 @@ My Poem on Rainbow
   3rd Write
   >>purple
   >>grey
-  
-  --------Now I'm gonna create a Branch
-        Rainbow questions??
-        
-        1. When do we get rainbow??
-        2. Why rainbow has colors??? 
-        
-        
- -----------Trying to merge to Master
-      //Let's see!!
+//removed lines
