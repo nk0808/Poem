@@ -7,3 +7,7 @@ My Poem on Rainbow
   >>Blues 
   >>Green
   >> Yellow
+
+2ND WRITE 
+  >>Orange
+  >>Red 
