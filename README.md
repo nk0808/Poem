@@ -18,3 +18,6 @@ My Poem on Rainbow
   
   --------Now I'm gonna create a Branch
         Rainbow questions??
+        
+        1. When do we get rainbow??
+        2. Why rainbow has colors??? 
