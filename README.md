@@ -11,3 +11,7 @@ My Poem on Rainbow
 2ND WRITE 
   >>Orange
   >>Red 
+  
+  3rd Write
+  >>purple
+  >>grey
